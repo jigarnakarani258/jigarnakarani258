@@ -2,7 +2,7 @@ Hey there! 👋 I'm Jigar Nakarani, a Software Engineer ✨
 =====================================================================================================================================
 
 
-👨‍💻 Full Stack Developer 🧙‍♂️ | 💡 Converting Coffee ☕ into Code 💻
+👨‍💻 Full Stack | MERN Developer 🧙‍♂️ | 💡 Converting Coffee ☕ into Code 💻
 
 🌍 Based in Ahmedabad 🏙️ | ✨ Crafting Digital Wonders ✨
 
@@ -25,7 +25,7 @@ Hey there! 👋 I'm Jigar Nakarani, a Software Engineer ✨
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/jigarnakarani258" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in//jigar-nakrani-9162931ab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.github.com/jigarnakarani258" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jigar-nakarani-9162931ab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 
 ### Badges
 
