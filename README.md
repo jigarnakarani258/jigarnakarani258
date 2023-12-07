@@ -11,7 +11,7 @@ Hey there! 👋 I'm Jigar Nakarani, a Software Engineer ✨
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-* I have 2 year+ experience as a Full Stack Developer at Scanpoint Geomatics Limited 🌟🔮
+* I have 2.5 year+ experience as a Full Stack Developer at Scanpoint Geomatics Limited 🌟🔮
   Based in the enchanting city of Ahmedabad 🏰🌍
 
 * When I'm not conjuring code spells, you can find me exploring new dimensions in my portfolio: [Portfolio](https://jigarnakarani258.github.io/portfolio/)
