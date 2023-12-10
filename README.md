@@ -1,23 +1,40 @@
 Hey there! 👋 I'm Jigar Nakarani, a Software Engineer ✨
 =====================================================================================================================================
 
+🌟 Node.js Developer | MERN Developer 🧙‍♂️ | Transforming Ideas into Scalable Web Applications | Open to New Opportunities 🌟
 
-👨‍💻 Full Stack | MERN Developer 🧙‍♂️ | 💡 Converting Coffee ☕ into Code 💻
+I'm a dynamic MERN stack Developer with a proven track record of 2.5+ years, specializing in crafting robust and scalable web applications. I am eager to bring my expertise and passion for innovation to a new team, ready to tackle exciting challenges and deliver outstanding results.
 
-🌍 Based in Ahmedabad 🏙️ | ✨ Crafting Digital Wonders ✨
+🔹 Technical Proficiency:
+As a MERN stack Developer, I possess a diverse skill set that includes:
 
-💻 Solving Problems with 0s and 1s 💡
+🚀 Node.js 
+🔗 Express.js
+🚀 React.js 
+💡 JavaScript
+📊 PostGreSQL
+📊 MongoDB
+
+✨ Achievements:
+In my professional journey as a MERN stack Developer, I have:
+
+🏆 Successfully delivered multiple projects, demonstrating my ability to handle complex requirements and meet tight deadlines.
+
+🏆 Optimized application performance and scalability by implementing best practices and leveraging appropriate tools and technologies.
 
 
---------------------------------------------------------------------------------------------------------------------------------------
+🌍 Passion and Ambition:
+I am truly passionate about technology and thrive in fast-paced environments where innovation is encouraged. As a lifelong learner, I consistently update my skills to stay ahead of the curve and continuously improve my craft. My ambition is to be part of a dynamic team where I can contribute my expertise and collaborate on ground breaking projects.
 
-* I have 2.5 year+ experience as a Full Stack Developer at Scanpoint Geomatics Limited 🌟🔮
-  Based in the enchanting city of Ahmedabad 🏰🌍
+I'm always open to new opportunities, discussions, and networking!
 
 * When I'm not conjuring code spells, you can find me exploring new dimensions in my portfolio: [Portfolio](https://jigarnakarani258.github.io/portfolio/)
   or LeetCode: [LeetCode](https://leetcode.com/JigarNakarani/)
   
 * Need to send me a magical message? ✉️📬 Drop it in my enchanted mailbox at [nakaranijigar258@gmail.com](mailto:nakaranijigar258@gmail.com)
+  
+#NodejsDeveloper #WebApplications #JavaScript #Expressjs #MongoDB #InnovativeSolutions #PassionateDeveloper #OpenToOpportunities
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ### Skills
 
